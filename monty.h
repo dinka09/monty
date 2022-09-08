@@ -1,7 +1,7 @@
 #ifndef MONTY_H_
 #define MONTY_H_
 
-#define UN __atribute__((__unused__))
+#define UN __attribute__((__unused__))
 
 #include <stdio.h>
 #include <stdlib.h>
